@@ -4,7 +4,7 @@
 
 **Software Developer · AI Enthusiast · Problem Solver**
 
-📍 Binghamton, NY &nbsp;|&nbsp; 🏠 Working From Home
+📍 Binghamton, NY &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-agrawal-a70/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushi8795)
