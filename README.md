@@ -15,13 +15,20 @@
 
 ## 🙋‍♀️ About Me
 
-I'm a developer who loves turning ideas into real, working software. My work spans from **GenAI and RAG pipelines** to **full-stack web apps** and **console-based Python programs**. I enjoy building things that solve actual problems — whether that's helping someone improve their resume with AI, managing tasks, or practicing algorithms.
+Software Developer with **5+ years of experience** in Python, specializing in building **ETL workflows**, **backend services**, 
+and **AI/GenAI applications**. I have worked across the full stack — from designing AWS-based data pipelines and SQL data 
+models to developing LLM-powered tools using LangChain, OpenAI, and RAG pipelines.
 
-I believe the best way to grow is to keep building, keep breaking things, and keep learning from both.
+Currently pursuing a **PhD in IT-AI** at University of the Cumberlands, I bring a strong mix of academic depth and hands-on 
+industry experience — having worked with clients like **Nationwide Insurance** on Python analytics models, Java application 
+upgrades, and cloud-based ETL systems on AWS.
 
 - 🔭 Currently building **AI-powered applications** with LLMs, RAG, and vector databases
-- 🧠 Practicing **Data Structures & Algorithms** regularly on LeetCode
-- 🌱 Always exploring new tools and frameworks
+- ☁️ Experienced with **AWS** — Lambda, Glue, Athena, S3, SageMaker, QuickSight
+- 🗄️ Skilled in **ETL pipelines**, SQL data modeling, and backend API development
+- 🎓 **PhD in IT-AI** (Ongoing) | MS in Computer Science | MS in Project Management
+- 🏅 **AWS Certified Generative AI Developer – Professional** | **Azure AI Fundamentals** certified
+- 🌱 Always exploring new tools in the GenAI and data engineering space
 - 🤝 Open to collaborations, opportunities, and interesting conversations
 
 ---
