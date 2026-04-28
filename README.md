@@ -70,6 +70,38 @@ upgrades, and cloud-based ETL systems on AWS.
 
 ## 🚀 Featured Projects
 
+---
+
+### 🧠 [Agentic AI Code Intelligence Platform](https://github.com/ayushi8795/<your-repo-link>)
+> A **production-grade Agentic AI system** that analyzes **public Python GitHub repositories** using **RAG, LLMs, and LangGraph workflows**.
+>
+> The system dynamically decides what to do (code review, documentation, Q&A) using a **planner–executor architecture**, instead of fixed API endpoints.
+>
+> **Key Capabilities:**
+> - 🔍 AI-powered **code review** (bugs, improvements, maintainability)
+> - 📄 **Automatic documentation generation**
+> - ❓ **Context-aware Q&A over repository**
+> - 🧠 **Agentic decision-making (planner + executor)**
+>
+> **Architecture:**
+> GitHub API → Chunking → Embeddings → ChromaDB → Retrieval (RAG) → LLM → Validation → Agent Workflow (LangGraph)
+>
+> **Key Features:**
+> - Retrieval-Augmented Generation (**RAG pipeline**)
+> - **LangGraph-based agent orchestration**
+> - **Tool-based modular architecture**
+> - **LangSmith tracing + observability**
+> - **Guardrails + structured output validation**
+> - **PII/secret masking for secure processing**
+> - **Async processing + job tracking**
+>
+> ⚠️ *Currently supports **public Python repositories only** and uses ephemeral vector storage (demo setup).*
+>
+> 🔗 **Live Demo:** https://agentic-ai-code-review-intelligence-system.streamlit.app/  
+> 🎥 **Demo Video:** https://youtu.be/dbOwT8TJDJ0
+>
+> `Python` `FastAPI` `LangChain` `LangGraph` `OpenAI` `ChromaDB` `Streamlit` `RAG` `Agentic AI`
+
 ### 🤖 [AI Resume Analyzer](https://github.com/ayushi8795/AI-Resume-Analyzer)
 > A GenAI-powered tool that analyzes a **resume PDF** against a **job description** and generates a structured hiring-style report.
 >
