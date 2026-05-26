@@ -72,7 +72,7 @@ upgrades, and cloud-based ETL systems on AWS.
 
 ---
 
-### 🧠 [Agentic AI Code Intelligence Platform](https://github.com/ayushivagrawal/<your-repo-link>)
+### 🧠 [Agentic AI Code Intelligence Platform](https://github.com/ayushivagrawal/AI-code-Agent)
 > A **production-grade Agentic AI system** that analyzes **public Python GitHub repositories** using **RAG, LLMs, and LangGraph workflows**.
 >
 > The system dynamically decides what to do (code review, documentation, Q&A) using a **planner–executor architecture**, instead of fixed API endpoints.
