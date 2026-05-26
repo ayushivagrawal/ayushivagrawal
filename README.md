@@ -153,17 +153,13 @@ upgrades, and cloud-based ETL systems on AWS.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushivagrawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushivagrawal&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushivagrawal&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushivagrawal&theme=tokyo-night&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushivagrawal&color=6C63FF&style=flat)
 
-</div>>
+</div>
 
 ---
 
