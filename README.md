@@ -7,7 +7,7 @@
 📍 Binghamton, NY &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-agrawal-a70/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushi8795)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushivagrawal)
 
 </div>
 
@@ -72,7 +72,7 @@ upgrades, and cloud-based ETL systems on AWS.
 
 ---
 
-### 🧠 [Agentic AI Code Intelligence Platform](https://github.com/ayushi8795/<your-repo-link>)
+### 🧠 [Agentic AI Code Intelligence Platform](https://github.com/ayushivagrawal/<your-repo-link>)
 > A **production-grade Agentic AI system** that analyzes **public Python GitHub repositories** using **RAG, LLMs, and LangGraph workflows**.
 >
 > The system dynamically decides what to do (code review, documentation, Q&A) using a **planner–executor architecture**, instead of fixed API endpoints.
@@ -102,7 +102,7 @@ upgrades, and cloud-based ETL systems on AWS.
 >
 > `Python` `FastAPI` `LangChain` `LangGraph` `OpenAI` `ChromaDB` `Streamlit` `RAG` `Agentic AI`
 
-### 🤖 [AI Resume Analyzer](https://github.com/ayushi8795/AI-Resume-Analyzer)
+### 🤖 [AI Resume Analyzer](https://github.com/ayushivagrawal/AI-Resume-Analyzer)
 > A GenAI-powered tool that analyzes a **resume PDF** against a **job description** and generates a structured hiring-style report.
 >
 > Built with a full **RAG pipeline** — PDF extraction → NLP skill parsing → OpenAI embeddings → ChromaDB vector search → LLM report generation → Streamlit UI.
@@ -113,7 +113,7 @@ upgrades, and cloud-based ETL systems on AWS.
 
 ---
 
-### 📊 [Data Professional Survey Analysis](https://github.com/ayushi8795/Data-Professional-Survey-Analysis)
+### 📊 [Data Professional Survey Analysis](https://github.com/ayushivagrawal/Data-Professional-Survey-Analysis)
 > A **Power BI dashboard** analyzing survey responses from **630 data professionals** across multiple countries and job roles.
 >
 > Provides actionable insights into **average salaries** by job title and country, **top programming languages** preferred in the industry, **work-life balance and salary happiness scores**, and the **difficulty of breaking into data roles**.
@@ -122,7 +122,7 @@ upgrades, and cloud-based ETL systems on AWS.
 
 ---
 
-### 💡 [Leetcode Python](https://github.com/ayushi8795/Leetcode-Python)
+### 💡 [Leetcode Python](https://github.com/ayushivagrawal/Leetcode-Python)
 > A growing collection of **LeetCode problem solutions** written in Python — covering arrays, strings, trees, graphs, dynamic programming, and more.
 >
 > A reflection of consistent practice and a commitment to mastering Data Structures and Algorithms.
@@ -131,7 +131,7 @@ upgrades, and cloud-based ETL systems on AWS.
 
 ---
 
-### 📝 [Blog Post Application](https://github.com/ayushi8795/Blog-Post-Application)
+### 📝 [Blog Post Application](https://github.com/ayushivagrawal/Blog-Post-Application)
 > A full-stack blog application where users can **create, view, and manage** personal blog posts through a clean web interface.
 >
 > Built using Node.js and EJS for server-side rendering with a CSS-styled frontend.
@@ -140,7 +140,7 @@ upgrades, and cloud-based ETL systems on AWS.
 
 ---
 
-### ✅ [To-Do List App](https://github.com/ayushi8795/TO-Do-List-App)
+### ✅ [To-Do List App](https://github.com/ayushivagrawal/TO-Do-List-App)
 > A simple and intuitive **task management app** for adding and tracking daily to-dos.
 >
 > Clean, minimal UI focused on usability and getting things done.
@@ -153,15 +153,15 @@ upgrades, and cloud-based ETL systems on AWS.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushi8795&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushivagrawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushi8795&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushivagrawal&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushi8795&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushivagrawal&layout=compact&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushi8795&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayushivagrawal&theme=tokyo-night&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushi8795&color=6C63FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushivagrawal&color=6C63FF&style=flat)
 
 </div>>
 
@@ -174,7 +174,7 @@ I'm always happy to connect — whether it's about a project idea, a job opportu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushiaagrawal/)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushi8795)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushivagrawal)
 
 </div>
 
